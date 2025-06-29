@@ -62,4 +62,5 @@ Veja o arquivo [`LICENSE`](LICENSE) para mais detalhes.
 
 ---
 
-Feito com 💚
+Feito com 💚 por [Agendux](https://github.com/agendux)
+

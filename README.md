@@ -62,7 +62,6 @@ Veja o arquivo [`LICENSE`](LICENSE) para mais detalhes.
 
 ---
 <p align="center">
-  Desenvolvido e mantido com 💚 no 🇧🇷 por [Agendux](https://github.com/agendux)
+  Desenvolvido e mantido com 💚 no 🇧🇷 por <a href="https://github.com/agendux">Agendux</a>
 </p>
-
 

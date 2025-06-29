@@ -1,8 +1,8 @@
 # 🗓️ Agendux - Aplicativo de Agendamento
 
-<center>
+<p align="center">
 <img src="public/ogimage.png" alt="Tela Menu" width="500"/>
-</center>
+</p>
 
 **Agendux** é um aplicativo web open source para agendamentos rápidos e eficientes, com foco em privacidade, leveza e usabilidade. Ideal para profissionais autônomos, clínicas, salões, estúdios e qualquer outro negócio que precise gerenciar agendamentos sem complicação.
 

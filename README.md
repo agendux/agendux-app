@@ -1,4 +1,4 @@
-# 🗓️ Agendux - Aplicativo de Agendamento
+# 🗓️ Agendux - Aplicativo de Agendamentos
 
 <p align="center">
 <img src="public/ogimage.png" alt="Tela Menu" width="500"/>
@@ -61,6 +61,8 @@ Este projeto está licenciado sob a **Licença Apache 2.0**.
 Veja o arquivo [`LICENSE`](LICENSE) para mais detalhes.
 
 ---
+<p align="center">
+  Desenvolvido e mantido com 💚 no 🇧🇷 por [Agendux](https://github.com/agendux)
+</p>
 
-Feito com 💚 por [Agendux](https://github.com/agendux)
 

@@ -10,14 +10,12 @@
 - NPM: `v10.9.2`
 - Nuxt.js: `v3.17.5`
 
----
 
 ## 🔗 Repositório
 
 Repositório oficial do projeto:  
 👉 https://github.com/agendux/agendux-app
 
----
 
 ## 🚀 Como clonar e rodar o projeto localmente
 
@@ -46,14 +44,12 @@ Abra o navegador em:
 [http://localhost:3000](http://localhost:3000)
 
 
----
 
 ## 🤝 Contribuições
 
 Contribuições são bem-vindas!  
 Sinta-se livre para abrir issues ou pull requests no repositório.
 
----
 
 ## 📄 Licença
 

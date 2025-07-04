@@ -23,7 +23,7 @@
 
 
 <script setup>
-import '@/public/assets/css/config.css'
+import '~/assets/css/config.css'
 useHead({
 	title: 'Agendux - App de Agendamento',
 	script: [

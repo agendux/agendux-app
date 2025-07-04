@@ -22,7 +22,7 @@
 </template>
 
 
-<script setup>
+<script setup lang="ts">
 import '~/assets/css/config.css'
 useHead({
 	title: 'Agendux - App de Agendamento',
@@ -34,4 +34,9 @@ useHead({
 		}
 	]
 })
+
+definePageMeta({
+    layout: 'ongoing'
+})
+
 </script>

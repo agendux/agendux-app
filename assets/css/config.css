@@ -1,3 +1,9 @@
+@import "tailwindcss";
+
+@theme {  
+    --color-olive: #212820;  
+}
+
 body {
     background: #212820;
     color: #26C485;

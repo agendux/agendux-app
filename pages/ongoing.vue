@@ -36,7 +36,7 @@ useHead({
 })
 
 definePageMeta({
-    layout: 'ongoing'
+    layout: 'no-header'
 })
 
 </script>
